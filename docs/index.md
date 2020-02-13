@@ -19,7 +19,7 @@
 ![](./field.png)
 
 ## 登場キャラクター
-![](./pose_dance_ukareru_man.png)
+![](./mimizu.png)
 ミミズ
 
 ![](./餌.png)
